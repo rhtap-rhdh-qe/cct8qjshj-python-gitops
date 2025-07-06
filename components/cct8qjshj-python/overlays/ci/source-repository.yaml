@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: cct8qjshj-python-repository
+spec:
+  url: https://github.com/rhtap-rhdh-qe/cct8qjshj-python
